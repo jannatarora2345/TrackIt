@@ -1,0 +1,11 @@
+com\trackit\ItemHistory.class
+com\trackit\ItemHistoryRepository.class
+com\trackit\JwtUtil.class
+com\trackit\AuthService.class
+com\trackit\AuthController.class
+com\trackit\ItemController.class
+com\trackit\ItemRepository.class
+com\trackit\TrackitSpringbootApplication.class
+com\trackit\User.class
+com\trackit\UserRepository.class
+com\trackit\Item.class
